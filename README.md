@@ -1,7 +1,7 @@
 # El Martillo OCR - Fabrizio Vera
 
 ## Overview
-This project digitizes and analyzes a historical newspaper page from "El Martillo" (Chiclayo, 1903–1919) using the Claude API for OCR. The goal is to transform the unstructured image data into a structured dataset and provide exploratory insights.
+This project digitizes and analyzes a historical newspaper page from "El Martillo" (Chiclayo, 1903–1919) using the Claude API for OCR. The goal is to transform the unstructured image data into a structured dataset and provide exploratory insights
 
 ## Repository Structure
 - `data/el_martillo/`: Contains the source image (`page_01.png`).
